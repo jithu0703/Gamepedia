@@ -1,4 +1,4 @@
-import "../style/Gamecard.css";
+import "../style/GameCard.css";
 import { getPopularGames } from "../services/api.js";
 import { Link } from "react-router-dom";
 
